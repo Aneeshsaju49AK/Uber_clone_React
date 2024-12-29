@@ -21,7 +21,7 @@ const UserLogout = () => {
     } )
   return (
     <div>
-      hi
+      user logout
     </div>
   )
 }
